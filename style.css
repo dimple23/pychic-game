@@ -1,0 +1,25 @@
+h1{
+  color:mintcream;
+}
+
+strong{
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  float:center;
+}
+p{
+  color: beige;
+  font-size: 24px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+  background-image: url(../Psychic-game/images/i1.jpg);
+
+}
